@@ -1,39 +1,39 @@
-原始文本/ORIGINAL ：
+已翻译Transtlated ：
 
 
 Doki Doki Mod Manager 4
-
+心跳 心跳 模组管理器 4
 A beautiful mod manager and installer for Doki Doki Literature Club.
-
+无与伦比，至臻华丽。它是心跳心跳文学部的模组管理及下载器。
 Download
-
+点击下载
 Seamlessly download, install and organise your Doki Doki Literature Club mods. All in one app.
-
+三个功能，一应俱全。流畅平滑地下载，安装并且安排您的心跳心跳文学部模组。
 Doki Doki Mod Manager brings all parts of DDLC modding together into one beautiful, simple experience. All of the tricky parts of modding are handled automatically, so you can start playing quicker than ever before.
-
+心跳心跳模组管理器让您的mod安装变得简单且美观。安装mod的一系列繁琐过程将由管理器自动处理，所以您可以尽快开始您的模组游玩之旅。
 With Doki Doki Mod Manager, every mod has its own save folder. This means you can be playing several mods at once, without having to worry about losing any of your progress.
-
+在心跳心跳模组管理器中，所有的mod都各自拥有着独立的存档文件夹。这就意味着您可以同时游玩数个mod而不用担心丢失游戏进度。
 Support Doki Doki Mod Manager
-
+赞助作者
 Become a supporter of Doki Doki Mod Manager on Patreon for as little as $1 a month. Help keep the project running!
-
+在Patreon上赞助一下作者吧！每月只需1美元。这将是作者更新的动力和物质基础！
 Downloads for Windows
-
+Windows下载
 Download and run the installer. If you are prompted by Windows Defender, choose More info then Run anyway.
-
+下载并运行安装器。如果您的Windows Defender出现了弹窗提示，选择“更多信息”后运行即可。
 Downloads for macOS
-
+macOS下载
 Download Doki Doki Mod Manager and open it, then drag the icon to your Applications folder.
-
+下载心跳心跳模组管理器并启动，然后把图标拖动到应用程序文件夹。
 If macOS blocks you from opening the application, open System Preferences, then go to Security and Privacy then General. Click Open Anyway to start Doki Doki Mod Manager.
-
+如果macOS组织您打开应用程序，请打开系统首选项，然后打开安全与隐私——一般。点击“无论如何都要打开”来
 Downloads for Linux
-
+Linux下载
 Doki Doki Mod Manager is available as an AppImage.
-
+心跳心跳模组管理器以AppImage格式可用。
 Contribute
-
+贡献一份力量
 If you have any skills that may help improve Doki Doki Mod Manager, please let me know! I'm currently looking for volunteer translators, but if you have something else you could bring to the table, I'm happy to chat about it.
-
+如果您拥有可以帮助心跳心跳模组管理器提高的能力，请联系我吧！我正在寻找志愿翻译者，但如果您有其他方面的能力，我也很愿意和您聊一聊。
 I try my best to respond as quickly as possible to any messages I receive, but please be aware that this may not always be possible.
-
+我尽可能快地回复消息，但是也不能做到什么时候都很快:)
