@@ -1,0 +1,39 @@
+原始文本/ORIGINAL ：
+
+
+Doki Doki Mod Manager 4
+
+A beautiful mod manager and installer for Doki Doki Literature Club.
+
+Download
+
+Seamlessly download, install and organise your Doki Doki Literature Club mods. All in one app.
+
+Doki Doki Mod Manager brings all parts of DDLC modding together into one beautiful, simple experience. All of the tricky parts of modding are handled automatically, so you can start playing quicker than ever before.
+
+With Doki Doki Mod Manager, every mod has its own save folder. This means you can be playing several mods at once, without having to worry about losing any of your progress.
+
+Support Doki Doki Mod Manager
+
+Become a supporter of Doki Doki Mod Manager on Patreon for as little as $1 a month. Help keep the project running!
+
+Downloads for Windows
+
+Download and run the installer. If you are prompted by Windows Defender, choose More info then Run anyway.
+
+Downloads for macOS
+
+Download Doki Doki Mod Manager and open it, then drag the icon to your Applications folder.
+
+If macOS blocks you from opening the application, open System Preferences, then go to Security and Privacy then General. Click Open Anyway to start Doki Doki Mod Manager.
+
+Downloads for Linux
+
+Doki Doki Mod Manager is available as an AppImage.
+
+Contribute
+
+If you have any skills that may help improve Doki Doki Mod Manager, please let me know! I'm currently looking for volunteer translators, but if you have something else you could bring to the table, I'm happy to chat about it.
+
+I try my best to respond as quickly as possible to any messages I receive, but please be aware that this may not always be possible.
+
